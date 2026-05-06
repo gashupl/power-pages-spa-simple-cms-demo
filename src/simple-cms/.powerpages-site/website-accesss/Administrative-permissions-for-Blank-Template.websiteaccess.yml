@@ -1,0 +1,8 @@
+id: 8167a5bb-f20d-4e4e-ac0d-f94da178cb5c
+managecontentsnippets: true
+managesitemarkers: true
+manageweblinksets: true
+name: Administrative permissions for Blank Template
+previewunpublishedentities: true
+adx_websiteaccess_webrole:
+- debd30db-1993-4117-be00-2a76c43d2155
