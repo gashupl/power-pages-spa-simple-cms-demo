@@ -1,0 +1,3 @@
+id: f6991c89-915b-496a-810d-d7f96dfa272d
+name: Authentication/OpenIdConnect/EntraExternalID_1/Scope
+value: openid email profile

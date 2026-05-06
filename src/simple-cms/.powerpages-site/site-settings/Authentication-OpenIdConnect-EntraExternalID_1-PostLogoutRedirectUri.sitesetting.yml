@@ -1,0 +1,3 @@
+id: 102f46ab-43b2-46dd-a695-037423e84d4b
+name: Authentication/OpenIdConnect/EntraExternalID_1/PostLogoutRedirectUri
+value: https://pg-source-cms.powerappsportals.com/

@@ -1,0 +1,3 @@
+id: 885bd622-d809-4ab4-856e-dc70ed160fec
+name: Authentication/OpenIdConnect/EntraExternalID_1/ResponseType
+value: code id_token

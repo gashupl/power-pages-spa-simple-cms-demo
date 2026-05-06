@@ -1,0 +1,3 @@
+id: c92e514f-05bc-4ca0-b0f3-f92372b2bc16
+name: Authentication/OpenIdConnect/EntraExternalID_1/RedirectUri
+value: https://pg-source-cms.powerappsportals.com/signin-entraexternalid_1

@@ -1,0 +1,3 @@
+id: f02eb2d2-2545-4591-aef0-74efaf52c432
+name: Authentication/OpenIdConnect/EntraExternalID_1/UseTokenLifetime
+value: false
