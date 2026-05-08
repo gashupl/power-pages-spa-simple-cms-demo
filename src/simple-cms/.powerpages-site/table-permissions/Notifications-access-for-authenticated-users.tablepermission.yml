@@ -1,0 +1,14 @@
+adx_entitypermission_webrole:
+- 4b424491-d50e-4204-93af-8c8d9e792537
+- c1aa03c9-de49-4d3e-9fbb-efecb19e8fcb
+append: false
+appendto: false
+contactrelationship: pg_notification_contactid_contact
+create: false
+delete: false
+entitylogicalname: pg_notification
+entityname: Notifications access for authenticated users
+id: 3e3378ee-a74a-f111-bec7-000d3abb07c3
+read: true
+scope: 756150001
+write: true

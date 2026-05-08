@@ -1,0 +1,12 @@
+adx_entitypermission_webrole:
+- 86a644de-96c3-4c08-81af-c540c0a5fe6a
+append: false
+appendto: false
+create: false
+delete: false
+entitylogicalname: pg_information
+entityname: Anonymous access to information
+id: 044bf6aa-a74a-f111-bec7-000d3abb07c3
+read: true
+scope: 756150000
+write: false
